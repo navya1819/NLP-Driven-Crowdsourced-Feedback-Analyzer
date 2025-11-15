@@ -1,5 +1,5 @@
 
-# Summarization-of-Reviews
+# NLP-Driven-Crowdsourced-Feedback-Analyzer
 
 The ML model takes in a single URL from E-commerce website as an input
 and the number of pages you want to get reviews from and makes an interactive
